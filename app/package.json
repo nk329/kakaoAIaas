@@ -1,0 +1,14 @@
+{
+    "name": "2tier-app",
+    "version": "1.0.0",
+    "description": "2-Tier Architecture Demo",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "dotenv": "^10.0.0",
+        "express": "^4.21.2",
+        "mysql2": "^2.3.3"
+    }
+}
